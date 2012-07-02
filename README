@@ -1,0 +1,16 @@
+Project: OJBroker
+===================
+Subproject of:        eco4r - Exposing Compound Objects for Repositories
+Web Page:             http://www.eco4r.org
+version: 	      1.0
+Fedora Versions:      3.3 and 3.4
+Funded By:            DFG - German Research Foundation
+Co-operation:         HBZ NRW & University Library Bielefeld
+Documentation site:   http://trac.eco4r.org/trac/eco4r/wiki/Fedora2ORE
+Developer:            
+
+
+-------------------- 
+
+The aggregation broker is a component of the overlay journal. It accepts requests including different parameter values and returns a subset of the data stored in the overlay journal according these parameters.
+The request can be performed in a RESTFul manner and the response is provided in JSON format. 
