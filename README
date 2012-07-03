@@ -17,4 +17,4 @@ It accepts requests including different parameter values and returns a subset of
 in the overlay journal according these parameters.
 The request can be performed in a RESTFul manner and the response is provided in JSON format.
 
-THIS PEACE OF SOFTWARE IS IN BETA STAGE
+THIS PIECE OF SOFTWARE IS IN BETA STAGE
